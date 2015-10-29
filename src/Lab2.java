@@ -6,7 +6,7 @@ public class Lab2 {
 
 	String hello = "hello";
 	String bye = "bye";
-
+	String what = "what";
 	//what am i doing...
 	// hiuhihii
 }
