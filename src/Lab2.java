@@ -7,6 +7,7 @@ public class Lab2 {
 	String hello = "hello";
 	String bye = "bye";
 	String what = "what";
+	String hi = "hi";
 	//what am i doing...
 	// hiuhihii
 }
