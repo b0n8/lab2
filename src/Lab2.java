@@ -9,6 +9,7 @@ public class Lab2 {
 	String what = "what";
 	String hi = "hi";
 	String what2 = "what";
+	String yes = "yest";
 	//what am i doing...
 	// hiuhihii
 }
