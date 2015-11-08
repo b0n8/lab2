@@ -13,4 +13,6 @@ public class Lab2 {
 	String ya = "ya";
 	//what am i doing...
 	// hiuhihii
+
+	String omg = "omg";
 }
